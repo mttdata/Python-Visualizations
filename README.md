@@ -1,2 +1,23 @@
-These are all examples of data visualizations that I created using Python's "Pandas" data analysis library.  In particuar, you 
-will notice that the quality of the images is pristine due to the fact that scalable vector graphics were used. 
+These are all examples of data visualizations that I created using Python's "Pandas" data analysis library.  In particuar, you will notice that the quality of the images is pristine due to the fact that scalable vector graphics were used. 
+
+Finally, data was mined, and then extracted, into the following delimited format in order to be visualized.  Here
+is an example of the output of mined data that I used to create my visualizations:
+
+3351, 83.11, 65.17, 36.94, 45.78, 4.89, 0.39,  0,  1.16, 1.52, 3.31, 13.7
+2395, 87.72, 59.96, 24.47, 57.75, 3.26, 0.63,  0,  0,    .96 , 3.72, 9.27
+1636, 86.55, 80.13, 36.74, 60.88, 18.40, 0.55, 0,  0,    2.63, 5.99, 10.76
+1334, 73.76, 55.47, 26.69, 44.60, 1.05, 0,     0,  0,    0.90, 1.95, 21.81
+1305, 84.37, 67.74, 25.29, 39.31, 2.76, 0.08,  0, 0.08, 0.54, 2.07, 17.47
+1260, 79.21, 37.94, 3.17,  37.46, 3.41, 0.24,  0, 0.16, 1.43, 3.57, 19.76
+1078, 82.47, 72.08, 25.70, 63.82, 3.53, 0.56,  0, 0,    2.78, 5.29, 13.73
+1051, 76.69, 56.23, 8.56, 48.05,  0.67, 0.19,  0, 0,    2.95, 5.90, 13.51 
+977, 69.81,  58.34, 27.84, 18.73, 2.25, 0,     0, 0,    1.43, 1.64, 16.99
+914, 79.54,  43.33, 13.79, 10.07, 0.22, 0,     0, 0,    0.11, 1.20, 17.61
+845, 84.14,  78.58, 29.35, 35.27, 10.65, 1.07, 0, 0,    0.71, 0.36, 3.55
+565, 78.05,  52.96, 45.66, 32.04, 0.53, 2.65,  0, 0,    2.12, 3.01, 11.15
+526, 71.86,  62.17, 14.83, 29.85, 1.33, 0.57,  0, 4.18, 4.37, 10.27, 15.02
+497, 76.26,  50.10, 15.29, 46.48, 10.06, 0.60, 0, 18.31, 21.33,17.30, 14.49
+381, 56.69,   28.87, 29.92, 16.01, 1.31, 0.52,  0, 0.52, 2.36, 2.36,  15.49
+21472, 78.09, 57.76, 24.59, 42.35, 4.75, 0.45, 0, 2.52, 3.39, 4.91, 14.72
+0, 98.02, 71.47, 66.14, 85.73, 18.27, 4.55, 0.02, 36.64, 31.42, 31.96, 7.99
+
